@@ -6,7 +6,7 @@ Personal website of **Hamed Tajik (HT)** — Mobile Repair Specialist, Board-Lev
 After enabling GitHub Pages, the site will be available at:
 - `https://YOUR-USERNAME.github.io`  
   or  
-- `https://YOUR-USERNAME.github.io/repository-name`
+- `https://username.github.io/hamed-tajik
 
 ## About
 - Advanced Mobile Phone Repair (4+ years)
