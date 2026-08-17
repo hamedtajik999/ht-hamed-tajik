@@ -18,4 +18,4 @@ After enabling GitHub Pages, the site will be available at:
 ## Contact
 Instagram and other profiles will be added soon.
 
-© Hamed Tajik
+https://www.instagram.com/hamedtajik999?igsh=Zzdqend4MGhvNDB1&igsi=Zzdqend4MGhvNDB1
